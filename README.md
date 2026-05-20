@@ -12,4 +12,4 @@
 тощо. Для полегшення читабельності коду слід відформатувати ваш код з допомогою
 `Black` та перевірити з допомогою `pylint`
 
-[link](https://drive.google.com/drive/u/0/folders/13IM_clS7GGoFcTmQ2stc70hgMePG_DBf)
+[Посиилання на лабу](https://drive.google.com/drive/u/0/folders/13IM_clS7GGoFcTmQ2stc70hgMePG_DBf)
